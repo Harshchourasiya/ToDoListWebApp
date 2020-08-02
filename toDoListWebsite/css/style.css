@@ -1,0 +1,58 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+#MainContainer{
+
+}
+
+#MainContainer h1{
+text-align: center;
+font-size: 2rem;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin: 50px;
+padding: 20px;
+}
+#MainContainer label{
+  display: block;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  font-size: 1rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+#MainContainer #task{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  width: 300px;
+  
+}
+#MainContainer button{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 1rem;
+} 
+#MainContainer .container table {
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid black;
+  margin-top: 50px;
+}
+#MainContainer .container table tr th {
+  border: 1px solid black;
+  padding-right:50px;
+  padding-left:50px;
+  text-align: center;
+}
+#MainContainer .container table tr td {
+  text-align: center;
+  
+}
+
